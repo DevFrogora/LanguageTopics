@@ -1,0 +1,1 @@
+Api for Div to Image by ajax from servlet
