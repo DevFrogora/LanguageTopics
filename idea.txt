@@ -2,3 +2,12 @@ Api for Div to Image by ajax from servlet
 
 For Fun:
 https://www.youtube.com/user/TheSecurityTube/videos
+
+C++ thing to learn
+https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern#:~:text=The%20curiously%20recurring%20template%20pattern,form%20of%20F%2Dbounded%20quantification.
+
+socket tutorial
+https://pulpfreepress.com/content/Products/Books/CSharp_For_Artists/Samples/Chapter_19.pdf
+
+gradle things to learn:
+https://stackoverflow.com/questions/34928351/gradle-global-exclude
