@@ -42,17 +42,6 @@ SendTCPData(_toClient, _packet);
  </td>
 </tr> 
 
-<tr>
-    <th>
-        Images
-    </th>
-    <th>
-        Description
-    </th>
-    <th>
-        code
-    </th>
-</tr>
   <tr>
     <td>
         <div width="350" >
