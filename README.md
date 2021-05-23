@@ -25,7 +25,10 @@ code
         </div>
     </td>
     <td> 
+        <div>
+
          Code For sending the data
+
             ```csharp
             using (Packet _packet = new Packet((int)ServerPackets.welcome))
             {
@@ -33,9 +36,10 @@ code
                 _packet.Write(_toClient);
 
                 SendTCPData(_toClient, _packet);
-            }
-            ```
-
+            }    
+        ```
+        
+        </div>
     </td>
 
    </tr> 
