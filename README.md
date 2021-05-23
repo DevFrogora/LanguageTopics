@@ -26,7 +26,6 @@ code
     </td>
     <td> 
         <div markdown=1>
-
          Code For sending the data
 
 ```csharp
@@ -39,9 +38,8 @@ SendTCPData(_toClient, _packet);
 }
 ```
 
-
-        </div>
-    </td>
+</div>
+ </td>
 
    </tr> 
    
